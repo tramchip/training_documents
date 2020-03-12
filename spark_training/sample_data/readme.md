@@ -3,3 +3,6 @@
 2. Star war dataset https://www.kaggle.com/jsphyg/star-wars includes
      * Characters
      * Species
+     * Starships
+     * Planets
+     * Vehicles
