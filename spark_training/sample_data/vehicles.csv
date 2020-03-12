@@ -1,0 +1,40 @@
+name,model,manufacturer,cost_in_credits,length,max_atmosphering_speed,crew,passengers,cargo_capacity,consumables,vehicle_class
+Sand Crawler,Digger Crawler,Corellia Mining Corporation,150000,36.8,30,46,30,50000,2 months,wheeled
+T-16 skyhopper,T-16 skyhopper,Incom Corporation,14500,10.4,1200,1,1,50,0,repulsorcraft
+X-34 landspeeder,X-34 landspeeder,SoroSuub Corporation,10550,3.4,250,1,1,5,NA,repulsorcraft
+TIE/LN starfighter,Twin Ion Engine/Ln Starfighter,Sienar Fleet Systems,NA,6.4,1200,1,0,65,2 days,starfighter
+Snowspeeder,t-47 airspeeder,Incom corporation,NA,4.5,650,2,0,10,none,airspeeder
+TIE bomber,TIE/sa bomber,Sienar Fleet Systems,NA,7.8,850,1,0,none,2 days,space/planetary bomber
+AT-AT,All Terrain Armored Transport,"Kuat Drive Yards, Imperial Department of Military Research",NA,20,60,5,40,1000,NA,assault walker
+AT-ST,All Terrain Scout Transport,"Kuat Drive Yards, Imperial Department of Military Research",NA,2,90,2,0,200,none,walker
+Storm IV Twin-Pod cloud car,Storm IV Twin-Pod,Bespin Motors,75000,7,1500,2,0,10,1 day,repulsorcraft
+Sail barge,Modified Luxury Sail Barge,Ubrikkian Industries Custom Vehicle Division,285000,30,100,26,500,2000000,Live food tanks,sail barge
+Bantha-II cargo skiff,Bantha-II,Ubrikkian Industries,8000,9.5,250,5,16,135000,1 day,repulsorcraft cargo skiff
+TIE/IN interceptor,Twin Ion Engine Interceptor,Sienar Fleet Systems,NA,9.6,1250,1,0,75,2 days,starfighter
+Imperial Speeder Bike,74-Z speeder bike,Aratech Repulsor Company,8000,3,360,1,1,4,1 day,speeder
+Vulture Droid,Vulture-class droid starfighter,"Haor Chall Engineering, Baktoid Armor Workshop",NA,3.5,1200,0,0,0,none,starfighter
+Multi-Troop Transport,Multi-Troop Transport,Baktoid Armor Workshop,138000,31,35,4,112,12000,NA,repulsorcraft
+Armored Assault Tank,Armoured Assault Tank,Baktoid Armor Workshop,NA,9.75,55,4,6,NA,NA,repulsorcraft
+Single Trooper Aerial Platform,Single Trooper Aerial Platform,Baktoid Armor Workshop,2500,2,400,1,0,none,none,repulsorcraft
+C-9979 landing craft,C-9979 landing craft,Haor Chall Engineering,200000,210,587,140,284,1800000,1 day,landing craft
+Tribubble bongo,Tribubble bongo,Otoh Gunga Bongameken Cooperative,NA,15,85,1,2,1600,NA,submarine
+Sith speeder,FC-20 speeder bike,Razalon,4000,1.5,180,1,0,2,NA,speeder
+Zephyr-G swoop bike,Zephyr-G swoop bike,Mobquet Swoops and Speeders,5750,3.68,350,1,1,200,none,repulsorcraft
+Koro-2 Exodrive airspeeder,Koro-2 Exodrive airspeeder,Desler Gizh Outworld Mobility Corporation,NA,6.6,800,1,1,80,NA,airspeeder
+XJ-6 airspeeder,XJ-6 airspeeder,Narglatch AirTech prefabricated kit,NA,6.23,720,1,1,NA,NA,airspeeder
+LAAT/i,Low Altitude Assault Transport/infrantry,Rothana Heavy Engineering,NA,17.4,620,6,30,170,NA,gunship
+LAAT/c,Low Altitude Assault Transport/carrier,Rothana Heavy Engineering,NA,28.82,620,1,0,40000,NA,gunship
+Tsmeu-6 personal wheel bike,Tsmeu-6 personal wheel bike,Z-Gomot Ternbuell Guppat Corporation,15000,3.5,330,1,1,10,none,wheeled walker
+Emergency Firespeeder,Fire suppression speeder,NA,NA,NA,NA,2,NA,NA,NA,fire suppression ship
+Droid tri-fighter,tri-fighter,"Colla Designs, Phlac-Arphocc Automata Industries",20000,5.4,1180,1,0,0,none,droid starfighter
+Oevvaor jet catamaran,Oevvaor jet catamaran,Appazanna Engineering Works,12125,15.1,420,2,2,50,3 days,airspeeder
+Raddaugh Gnasp fluttercraft,Raddaugh Gnasp fluttercraft,Appazanna Engineering Works,14750,7,310,2,0,20,none,air speeder
+Clone turbo tank,HAVw A6 Juggernaut,Kuat Drive Yards,350000,49.4,160,20,300,30000,20 days,wheeled walker
+Corporate Alliance tank droid,NR-N99 Persuader-class droid enforcer,Techno Union,49000,10.96,100,0,4,none,none,droid tank
+Droid gunship,HMP droid gunship,"Baktoid Fleet Ordnance, Haor Chall Engineering",60000,12.3,820,0,0,0,none,airspeeder
+AT-RT,All Terrain Recon Transport,Kuat Drive Yards,40000,3.2,90,1,0,20,1 day,walker
+AT-TE,All Terrain Tactical Enforcer,"Rothana Heavy Engineering, Kuat Drive Yards",NA,13.2,60,6,36,10000,21 days,walker
+SPHA,Self-Propelled Heavy Artillery,Rothana Heavy Engineering,NA,140,35,25,30,500,7 days,walker
+Flitknot speeder,Flitknot speeder,Huppla Pasa Tisc Shipwrights Collective,8000,2,634,1,0,NA,NA,speeder
+Neimoidian shuttle,Sheathipede-class transport shuttle,Haor Chall Engineering,NA,20,880,2,6,1000,7 days,transport
+Geonosian starfighter,Nantex-class territorial defense,Huppla Pasa Tisc Shipwrights Collective,NA,9.8,20000,1,0,NA,NA,starfighter
