@@ -6,7 +6,8 @@
       
 
 2.  Colab notebook
-     * https://colab.research.google.com/drive/1N9YGvoi7E8SJ-M6C4E9B34Eq2-0oOS_9
+     * https://colab.research.google.com/drive/1N9YGvoi7E8SJ-M6C4E9B34Eq2-0oOS_9 - Spark SQL 
+     * https://colab.research.google.com/drive/1eJStSQgrSGMJGVcbfeBkQb0QPfql92TL - Spark SQL and Spark Measure 
      
 
 3.  Sample Data set repo : for Colab notebook please review the slides for requirements
