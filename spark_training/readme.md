@@ -12,3 +12,6 @@
 
 3.  Sample Data set repo : for Colab notebook please review the slides for requirements
      * https://github.com/tramchip/training_documents/tree/master/spark_training/sample_data
+     
+4. Scala training materials 
+     *
