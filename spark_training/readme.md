@@ -1,4 +1,4 @@
-# This is the Pyspark training repo 
+# This is the Spark training repo 
 
 1. Presentation slides
       * Presentation for OPENVINO class https://docs.google.com/presentation/d/17ogNn7CRSsZkN6ZAx39JJRfcoO-wkvveNutAcVzoODc/edit?usp=sharing - with module on IoT and Spark streaming
