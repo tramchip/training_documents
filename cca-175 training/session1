@@ -1,0 +1,52 @@
+#This is the CCA-175 training for my study group 
+
+Session 1 -8/16/2020
+Scalable?
+	- Storage and compute can be scaled out through the addition of nodes
+Fault tolerant?
+	- Data redundancy  - replication factor = 3
+	- Data processing is broken up into tasks and run in parallel. If a node fails, the associated tasks is rerun on another node.
+Data storage: 
+	- YARN - (yet another) resource manager
+	- HDFS - hadoop distributed file system
+		○ One of multiple storage options for Hadoop
+			§ S3 - Impala can be executed against data in S3. AWS Athena 
+		○ Interface with other tools in the Hadoop ecosystem (e.g. - Hive, Impala, Oozie)
+	- HDFS can be accessed how?
+		○ CLI
+HDFS vs Linux FS
+	- Distributed
+	- Similarities
+		○ Paths and directory trees
+	- Differences
+		○ No concept of a current working directory
+Architecture: HDFS
+	- Hadoop …
+ 1. Hive
+		a. Uses hiveQL
+		b. Converts queries into jobs to be run on the cluster
+		c. Removes the need to write custom MR or Spark jobs
+	2. Impala
+		a. Can query data in hdfs and s3
+		b. Removes the need to covnert queries into jobs. Queries are run directly on the cluster.
+		c. Faster than hive. Why? Caches metadata and doesn’t need a conversion step!
+	3. Benefits of both
+		a. Easy to use. No need to know how to program.
+		b. Integrate with BI tools like tableau.
+	4. Tables
+		a. Tables have two components in hadoop.
+			i. -- metadata - and location. 
+			ii. -- data. The actual data in a table. 
+				1) These are stored as files. The table is represented as folder.
+					a) What do subdirs represent here? Partitions
+						i) TABLE
+							- Filepart1
+							- Filepart2
+							- SUBDIR
+								– Filepart1
+								– Filepart2
+						ii) What is the benefit of partitioning
+							- Performant queries. Avoids table scans.
+			iii. Hive and Impala work on the same tables in hdfs.
+	5. Database
+		a. Logical grouping of tables. Helps keep things organized, clean and it can facilitate access control.
