@@ -14,4 +14,10 @@
      * https://github.com/tramchip/training_documents/tree/master/spark_training/sample_data
      
 4. Scala training materials 
-     *
+
+5. Start with Spark 
+     - Databricks demo workbook
+     - Cloudera VM 
+     - Colab standalone Spark 
+     - Install Spark standalone cluster on your local machine by installing Java, Spark , PySpark / Scala, winutils (if you use windows)
+     
