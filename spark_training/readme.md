@@ -1,4 +1,4 @@
-# This is the Spark training repo 
+# This is the Spark training repo for my study group
 
 1. Presentation slides
       * Presentation for OPENVINO class https://docs.google.com/presentation/d/17ogNn7CRSsZkN6ZAx39JJRfcoO-wkvveNutAcVzoODc/edit?usp=sharing - with module on IoT and Spark streaming
@@ -20,4 +20,6 @@
      - Cloudera VM 
      - Colab standalone Spark 
      - Install Spark standalone cluster on your local machine by installing Java, Spark , PySpark / Scala, winutils (if you use windows)
+     
+6. Record links https://www.youtube.com/playlist?list=PLBIstIrTTexW7KBL3A4i3xklnWmPn8KGg
      
