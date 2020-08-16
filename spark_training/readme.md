@@ -22,4 +22,7 @@
      - Install Spark standalone cluster on your local machine by installing Java, Spark , PySpark / Scala, winutils (if you use windows)
      
 6. Record links https://www.youtube.com/playlist?list=PLBIstIrTTexW7KBL3A4i3xklnWmPn8KGg
+7. Wanna learn more about distributed system ? 
+          - CSE138 from Prof Linsey Kuper is fantastic https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31
+          - DynamoDB whitepaper https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
      
