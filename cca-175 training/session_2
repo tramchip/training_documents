@@ -1,8 +1,13 @@
 # Analyze exam requirements https://www.cloudera.com/about/training/certification/cca-spark.html
 1. Basic knowledge of Hive and HDFS and HDFS commands 
       - https://github.com/xuezhizeng/CCA175-Exam-Preparation/tree/master/01-Data%20Ingest/HDFS
- 2. Data Ingest 
- 3. Transform, Stage, and Store
- 4. Data Analysis using Spark SQL 
-
+2. Data Ingest 
+      - Start Spark Session 
+      - Load file
+      - Schema ( infer/ pre-defined )
+      - createOrReplaceTempView
+      
+3. Filter
+      - http://discuss.itversity.com/t/apache-spark-1-6-transform-stage-and-store-filtering-data-using-filter/20243
+      
      
