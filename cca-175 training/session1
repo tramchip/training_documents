@@ -26,10 +26,12 @@ Architecture: HDFS
 		a. Uses hiveQL
 		b. Converts queries into jobs to be run on the cluster
 		c. Removes the need to write custom MR or Spark jobs
+		d. Convert HiveQL -> MapReduce/ Spark engine
 	2. Impala
 		a. Can query data in hdfs and s3
 		b. Removes the need to covnert queries into jobs. Queries are run directly on the cluster.
 		c. Faster than hive. Why? Caches metadata and doesn’t need a conversion step!
+		d. Operate directly on the data , no translation requires
 	3. Benefits of both
 		a. Easy to use. No need to know how to program.
 		b. Integrate with BI tools like tableau.
