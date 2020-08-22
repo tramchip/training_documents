@@ -4,10 +4,13 @@
 2. Data Ingest 
       - Start Spark Session 
       - Load file
-      - Schema ( infer/ pre-defined )
       - createOrReplaceTempView
       
-3. Filter
-      - http://discuss.itversity.com/t/apache-spark-1-6-transform-stage-and-store-filtering-data-using-filter/20243
+3. Read data 
+      - Read csv in Spark 
+      - Read csv with header
+      - Read csv with manually defined schema 
+      - repartition and write file
+      - write data in parquet format 
       
      
