@@ -1,2 +1,2 @@
 # training_documents
-Repo that contains training materials
+Repo that contains training materials that I held for my study group
