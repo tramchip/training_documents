@@ -27,4 +27,5 @@
 7. Wanna learn more about distributed system ? 
           - CSE138 from Prof Linsey Kuper is fantastic https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31
           - DynamoDB whitepaper https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+          - Summary https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/
      
