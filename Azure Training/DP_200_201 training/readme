@@ -2,3 +2,32 @@
 Dp 200 / 201 material 
 
 https://medium.com/@marioamendieta/dp-201-designing-an-azure-data-solution-beta-study-guide-f088648ca5b2
+
+Database and datastore
+vCore-based vs. DTU purchasing model
+
+------------------------------------
+
+https://docs.microsoft.com/en-us/azure/sql-database/sql-database-purchase-models
+
+ 
+
+Azure SQL Database single database
+
+------------------------------------------------
+
+https://docs.microsoft.com/en-us/azure/sql-database/sql-database-single-database
+
+https://docs.microsoft.com/en-us/azure/sql-database/sql-database-transact-sql-information
+
+https://docs.microsoft.com/en-us/azure/sql-database/sql-database-features
+
+https://docs.microsoft.com/en-us/azure/sql-database/sql-database-single-database-quickstart-guide
+
+ 
+
+Performing scale up/down on existing databases
+
+----------------------------------------------
+
+https://docs.microsoft.com/en-us/azure/sql-database/sql-database-single-database-scale
