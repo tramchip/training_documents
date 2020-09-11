@@ -1,0 +1,9 @@
+        Heavy focus on choice of Cognitive services API in solution design and bot.
+·        How to design AI solution for mobile phone. Type of development tookit for mobile and library
+·        Moderate focus on LUIS eg which is which category of entity – Simple, composite, or prebuilt
+·        NO Azure ML questions.
+·        Batch and Stream processing technology choice (ingestion to processing to storage choices).
+·        implement chat bot with Cognitive services and the tools to use and how to deploy.
+·        Security, how to limit access to your ai solution etc
+·        AKS deployment
+·        iOT and edge
