@@ -10,7 +10,7 @@ Readme
 - my post https://janebraine.tech/tag/dp-100/
 -----------------------------------------------------------------
 ## Area of focus 
-###Data Science general knowledge 
+### Data Science general knowledge 
 - Basic statistics and data visualization
 - Normalization ( data preparation )
 - Evaluation metrics , what each metrics signal 
