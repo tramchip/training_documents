@@ -41,9 +41,10 @@ A large part of the exam will be on Azure SDK
 - Very few on autoML and designer 
 - Best process to parse arguement, mountdatastore in your dataset 
 - SDK syntax for autoMl 
-- Granting for Data science/ it admins
+- Roles and granting controls : data science vs it admins
 - deploying containers and moving containers with pytorch
 - troubleshooting AKS
+ 
 
 *** there are questions you can not go back and review . make sure to read these well **
 *** Be aware of the mock questions available online, a lot of the answers are not right **
