@@ -16,8 +16,8 @@ A large part of the exam will be on Azure SDK
 - Normalization ( data preparation )
 - **Evaluation metrics , what each metrics signal - what is the best metric for certain usecase 
 - Cross validation
-- **Hyper parameter tuning (hyperdrive) 
-- **Different sampling method ( parameter for hyperdrive
+- ** Hyper parameter tuning (hyperdrive) **
+- ** Different sampling method ( parameter for hyperdrive **
 - 
 - Feature selections ( which method for which case )
 - Requires business understanding of 3 mains algorithms , anomaly detection, recommendation, utilize different data sources depends on business use case 
@@ -44,8 +44,8 @@ A large part of the exam will be on Azure SDK
 - Granting for Data science/ it admins
 - deploying containers and moving containers with pytorch
 
-*** there are questions you can not go back and review . make sure to read these well 
-*** Be aware of the mock questions available online, a lot of the answers are not right 
+*** there are questions you can not go back and review . make sure to read these well **
+*** Be aware of the mock questions available online, a lot of the answers are not right **
 
 
 
