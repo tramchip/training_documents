@@ -33,19 +33,20 @@ A large part of the exam will be on Azure SDK
 - *Code* Loading, attaching, download, mounting, import data from *datastore*,*dataset* , deploy models and pipeline, consume pipeline, method of deployment from a script here, method of predicting
 - Focus on lesson #6 Udacity Azure 
 - (AKS, SDK- enviroments, benefits ) : https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/deploy-model
-- How to invoke API for batch API ( 3 parameters ) , real-time / steaming API 
+- How to invoke API for batch inference API ( 3 parameters ) , real-time inference / steaming API 
 - Metadata - importing share explainner- a few 
 - Small sections on contrainst of Microsoft infrastructure in the infrastructures 
 - sequence questions - what are the steps to perform data science flow ( split data into sampling, random number, train data)
-- Scenario and choose best options 
+- Scenario and choose best options
+- streaming hyper paramters
 - Very few on autoML and designer 
 - Best process to parse arguement, mountdatastore in your dataset 
 - SDK syntax for autoMl 
 - Roles and granting controls : data science vs it admins
 - deploying containers and moving containers with pytorch
 - troubleshooting AKS
- 
-
+- DP-100 lab 4 : how to create a compute
+- how to write logs and read log results
 *** there are questions you can not go back and review . make sure to read these well **
 *** Be aware of the mock questions available online, a lot of the answers are not right **
 
