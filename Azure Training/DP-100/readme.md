@@ -8,6 +8,7 @@ Readme
 3. Blog posts
 - Khalid's post - https://www.linkedin.com/pulse/microsoft-azure-data-scientist-exam-dp-100-khalid-waleed/?trackingId=Xr42VxxDQ5eIKtCFQKQC9w%3D%3D
 - my post https://janebraine.tech/tag/dp-100/
+- mock questions https://www.examtopics.com/exams/microsoft/dp-100/ - make sure to check on the comment to ensure the answer is correct 
 -----------------------------------------------------------------
 ## Area of focus 
 A large part of the exam will be on Azure SDK 
