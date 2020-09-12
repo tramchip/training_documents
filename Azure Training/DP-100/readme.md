@@ -1,6 +1,6 @@
 Readme
 
-This is the repo contains training materials forDP-100 for my study group 
+#This is the repo contains training materials forDP-100 for my study group 
 
 1. Slides 
 - https://docs.google.com/presentation/d/1tZ3YAHE6KAiB4JfQYApFW9-ZBL3WqgK1bkSjd6OtwJE/edit?usp=sharing
