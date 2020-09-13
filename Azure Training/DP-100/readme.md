@@ -54,7 +54,9 @@ A large part of the exam will be on Azure SDK
 - Hyperdriveconfig, must know how to interpret choice, uniform, and normal. The detail data return is not found in the learning material, so need to learn from the documentations. For example, is important to know how to interpret the output of eg uniform(01, 0.5). Is it returned as a range or only either of 2 values?
 - type of policy for hyperdrive, and the type of search.
 - Hyperdrive to optimize hyperparameter for classification model e.g to define primary metric goal to accuracy, maximize
-- Memorise the method to download model explainers to notebook
+- Code :  method to download model explainers to notebook
+- Fairlearn ??? May be will be added 
+
 
 *** there are questions you can not go back and review . make sure to read these well **
 *** Be aware of the mock questions available online, a lot of the answers are not right **
