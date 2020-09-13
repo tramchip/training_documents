@@ -8,7 +8,7 @@ Readme
 3. Blog posts
 - Khalid's post - https://www.linkedin.com/pulse/microsoft-azure-data-scientist-exam-dp-100-khalid-waleed/?trackingId=Xr42VxxDQ5eIKtCFQKQC9w%3D%3D
 - my post https://janebraine.tech/tag/dp-100/
-- mock questions https://www.examtopics.com/exams/microsoft/dp-100/ - make sure to check on the comment to ensure the answer is correct 
+- mock questions https://www.examtopics.com/exams/microsoft/dp-100/ ( only focus on questions on SDK but disregards the one on studio, designer ) - make sure to check on the comment to ensure the answer is correct 
 -----------------------------------------------------------------
 ## Area of focus 
 A large part of the exam will be on Azure SDK 
@@ -18,7 +18,12 @@ A large part of the exam will be on Azure SDK
 - **Evaluation metrics , what each metrics signal - what is the best metric for certain usecase 
 - Cross validation
 - ** Hyper parameter tuning (hyperdrive) **
-- ** Different sampling method ( parameter for hyperdrive **
+- ** Different sampling method ( parameter for hyperdrive ** https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/2-search-space
+qnormal
+quniform
+qlognormal
+qloguniform
+
 - What metric to use for unbalance dataset. 
 - Feature selections ( which method for which case )
 - Requires business understanding of 3 mains algorithms , anomaly detection, recommendation, utilize different data sources depends on business use case 
@@ -63,8 +68,16 @@ A large part of the exam will be on Azure SDK
 - Desginer - inference pipeline 
 https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/deploy-model
 https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/inference-pipeline
+- Data overfitting -> what do you do ?
+- Debug model with local web service, AKS ( deploy to local docker, advantage of aci , local webservice)
+https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/
+- Test Rest API for authentication - compute target doesnt require on authentication 
+- Which module in scoring script (init , run for real time ) ( init for batch )
+- DSVM / DLVM - compute cluster for Deep learning / training using compute cluster ( small part )
+For training use compute cluster, for deploying aks 
+
 *** there are questions you can not go back and review . make sure to read these well **
-*** Be aware of the mock questions available online, a lot of the answers are not right **
+*** Be aware of the mock questions available online, a lot of the answers are not right *
 ** ultilize whiteboard , check on the review questions and move on to a next question, no copy paste **
 
 
