@@ -57,7 +57,9 @@ A large part of the exam will be on Azure SDK
 - Code :  method to download model explainers to notebook
 - Fairlearn ??? May be will be added 
 - script pipe vs estimator pipe PythonScriptStep: Runs a specified Python script., EstimatorStep: Runs an estimator., DataTransferStep: Uses Azure Data Factory to copy data between data stores.-> how to use GPU for it 
-
+- Most efficient to get data from the dataset -> blog storage from datastore
+- AutoML : how to get the best model
+- Compute targets - which one for deep learning 
 *** there are questions you can not go back and review . make sure to read these well **
 *** Be aware of the mock questions available online, a lot of the answers are not right **
 ** ultilize whiteboard , check on the review questions and move on to a next question, no copy paste **
