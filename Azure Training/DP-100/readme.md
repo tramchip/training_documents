@@ -60,6 +60,9 @@ A large part of the exam will be on Azure SDK
 - Most efficient to get data from the dataset -> blog storage from datastore
 - AutoML : how to get the best model
 - Compute targets - which one for deep learning 
+- Desginer - inference pipeline 
+https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/deploy-model
+https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/inference-pipeline
 *** there are questions you can not go back and review . make sure to read these well **
 *** Be aware of the mock questions available online, a lot of the answers are not right **
 ** ultilize whiteboard , check on the review questions and move on to a next question, no copy paste **
