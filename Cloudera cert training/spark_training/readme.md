@@ -23,10 +23,13 @@
      - Cloudera VM 
      - Colab standalone Spark 
      - Install Spark standalone cluster on your local machine by installing Java, Spark , PySpark / Scala, winutils (if you use windows)
+     - Databrick and Spark https://databricks.com/building-and-deploying-machine-learning-models?_gl=1*hfi784*_gcl_aw*R0NMLjE1OTg1NDc2NzAuQ2owS0NRandzNTM2QlJEVEFSSXNBTmVVWjU5Ti1tbmdZWG50VEJUblJGcHJOZDNUOFZGbUJvblhaUzJPNzZwbjZVb05xOGVBMUdCRXdwTWFBbThqRUFMd193Y0I
+     
+
      
 6. Record links https://www.youtube.com/playlist?list=PLBIstIrTTexW7KBL3A4i3xklnWmPn8KGg
 7. Wanna learn more about distributed system ? 
           - CSE138 from Prof Linsey Kuper is fantastic https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31
           - DynamoDB whitepaper https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
           - Summary https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/
-     
+          
