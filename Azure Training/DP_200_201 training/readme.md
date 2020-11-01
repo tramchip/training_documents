@@ -39,3 +39,6 @@ Performing scale up/down on existing databases
 ----------------------------------------------
 
 https://docs.microsoft.com/en-us/azure/sql-database/sql-database-single-database-scale
+
+
+
