@@ -2,6 +2,7 @@
 1. Slides 
 - Foundation knowledge : https://docs.google.com/presentation/d/1mWd33GCu0Oq03GTqdeEen40kmMOINTAsdIaxpL-xSHs/edit?usp=sharing
 - Azure services : https://docs.google.com/presentation/d/1m4kzz7dnxXpUPndif7c7-DgNT0uUxVooMnnoUSigPRQ/edit?usp=sharing
+- Azure Architect : https://docs.google.com/presentation/d/1UHbqG8O126LFc0dl9v_EGkac1TmstG6rl8HIkKM2N4E/edit?usp=sharing
 2. Records https://www.youtube.com/channel/UCikyZD7q006IVZ2t5dB8opQ
 3. Blog posts https://janebraine.tech/tag/dp-200/
 
