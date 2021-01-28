@@ -1,0 +1,24 @@
+2021/01/28 05:20:57 Attempt 1 of http call to http://10.0.0.5:16384/sendlogstoartifacts/info
+2021/01/28 05:20:57 Attempt 1 of http call to http://10.0.0.5:16384/sendlogstoartifacts/status
+[2021-01-28T05:20:58.941775] Entering context manager injector.
+[context_manager_injector.py] Command line Options: Namespace(inject=['ProjectPythonPath:context_managers.ProjectPythonPath', 'RunHistory:context_managers.RunHistory', 'TrackUserError:context_managers.TrackUserError'], invocation=['train.py', '--C', '0.37566488288856026', '--max_iter', '250'])
+Script type = None
+Starting the daemon thread to refresh tokens in background for process with pid = 99
+Entering Run History Context Manager.
+[2021-01-28T05:21:01.359466] Current directory: /mnt/batch/tasks/shared/LS_root/jobs/quick-starts-ws-136332/azureml/hd_0c24481f-919b-4a32-ba6c-a1048583662e_13/mounts/workspaceblobstore/azureml/HD_0c24481f-919b-4a32-ba6c-a1048583662e_13
+[2021-01-28T05:21:01.359593] Preparing to call script [train.py] with arguments:['--C', '0.37566488288856026', '--max_iter', '250']
+[2021-01-28T05:21:01.359643] After variable expansion, calling script [train.py] with arguments:['--C', '0.37566488288856026', '--max_iter', '250']
+
+/azureml-envs/azureml_ba9520bf386d662001eeb9523395794e/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+model saved in ./outputs/model/bankmarketing_model.pkl
+Starting the daemon thread to refresh tokens in background for process with pid = 99
+
+
+[2021-01-28T05:21:18.147190] The experiment completed successfully. Finalizing run...
+Cleaning up all outstanding Run operations, waiting 900.0 seconds
+2 items cleaning up...
+Cleanup took 5.44321084022522 seconds
+[2021-01-28T05:21:23.917421] Finished context manager injector.
+2021/01/28 05:21:27 Attempt 1 of http call to http://10.0.0.5:16384/sendlogstoartifacts/status
+2021/01/28 05:21:27 Process Exiting with Code:  0
