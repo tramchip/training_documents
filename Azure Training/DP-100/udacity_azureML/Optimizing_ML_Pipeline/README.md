@@ -6,9 +6,16 @@ In this project, we build and optimize an Azure ML pipeline using the Python SDK
 This model is then compared to an Azure AutoML run.
 
 ## Summary
-**In 1-2 sentences, explain the problem statement: e.g "This dataset contains data about... we seek to predict..."**
+This dataset contains data about the bank's customer loan and  we seek to predict the default risk ( whether the customer is going to pay us or not ) using different classification method to find the relation of the label and features ( such as married status, salary, job , e.g)
 
 **In 1-2 sentences, explain the solution: e.g. "The best performing model was a ..."**
+When we look at the models , we should not look at only the accuracy but other metrics such as recall, precision, f1 e.g , overfit vs underfit e.g
+
+Accuracy is the most popular metric but it is subjected to data skewed so it is more reliable to use it for the regression method. For the purpose of this excercise we assumed that there is not much of data skewed so we will choose the accuracy as our primary metric as we don't have yet the domain knowledge of this data
+
+Also there was an issue with the time out so the best run model will be based of the algorithm that has sucessfully ran during the run
+The best performing model 
+
 
 ## Scikit-learn Pipeline
 **Explain the pipeline architecture, including data, hyperparameter tuning, and classification algorithm.**
