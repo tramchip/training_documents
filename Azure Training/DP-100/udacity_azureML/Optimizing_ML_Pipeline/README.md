@@ -9,23 +9,56 @@ This model is then compared to an Azure AutoML run.
 This dataset contains data about the bank's customer loan and  we seek to predict the default risk ( whether the customer is going to pay us or not ) using different classification method to find the relation of the label and features ( such as married status, salary, job , e.g)
 
 **In 1-2 sentences, explain the solution: e.g. "The best performing model was a ..."**
-When we look at the models , we should not look at only the accuracy but other metrics such as recall, precision, f1 e.g , overfit vs underfit e.g
 
-Accuracy is the most popular metric but it is subjected to data skewed so it is more reliable to use it for the regression method. For the purpose of this excercise we assumed that there is not much of data skewed so we will choose the accuracy as our primary metric as we don't have yet the domain knowledge of this data
+When we look at the models , we should not look at only the accuracy but other metrics such as recall, precision, f1 e.g , overfit vs underfit e.g. I have looked at these metrics and it seems like AutoML had taken considerate on these aspects before return to the best metrics ( the Voting ensemble was the leading score in both accuracy, precision and f1)
 
-Also there was an issue with the time out so the best run model will be based of the algorithm that has sucessfully ran during the run
-The best performing model 
+![alt text](https://github.com/tramchip/training_documents/blob/master/Azure%20Training/DP-100/udacity_azureML/Optimizing_ML_Pipeline/pictures/automl_f1.JPG)
+![alt text](https://github.com/tramchip/training_documents/blob/master/Azure%20Training/DP-100/udacity_azureML/Optimizing_ML_Pipeline/pictures/automl_precision.JPG)
+![alt text](https://github.com/tramchip/training_documents/blob/master/Azure%20Training/DP-100/udacity_azureML/Optimizing_ML_Pipeline/pictures/automl_auc.JPG)
 
+
+From the automl run the best metrics return was from Voting Ensemble . I went and read more on the Microsoft website and learned that the Ensemble method combines multiple model instead of a single one. The best metric is 0.9168437	
+
+Without using this technique the best model is MaxAbsScaler, XGBoostClassifier - best metric : 0.91493171
+
+![alt text](https://github.com/tramchip/training_documents/blob/master/Azure%20Training/DP-100/udacity_azureML/Optimizing_ML_Pipeline/pictures/automl_bestmodel_lgbm.JPG)
 
 ## Scikit-learn Pipeline
 **Explain the pipeline architecture, including data, hyperparameter tuning, and classification algorithm.**
 
+The sklearn is a deprecated method but for the requirement of this assignment we will stick with it instead of the ScriptRunConfig as recommended 
+![alt text](https://github.com/tramchip/training_documents/blob/master/Azure%20Training/DP-100/udacity_azureML/Optimizing_ML_Pipeline/pictures/sklearn_config.JPG)
+
+
+The sklearn pipeline run the code in the file train.py. In the train.py file we modulized the steps into functions that responsible for loading the data, preprocessing the x_df and y_df and split our data into train and testing sets 
+
+We use the Logistic regression to evalute in the sklearn pipeline as it is the default choice that includes in the scripts
+
+For the hyperparameter tuning I used the below configuration :
+- Accuracy as the primary metric 
+- max_total_run is 16
+- max_concurrent_run is 4
+
+As I haven't seen any guideline on what is the optimal number for max_total_run and max_concurrent_run , I picked these numbers base on the example notebooks that available on Azure github repo
+
+I  originally went with the Bayesian sampling does not support early termination policies thus I went with Random Sampling. The reason why I choose Bayesian sampling as this method is used in my company for sampling and it is one of the recommended practice over Grid or Random sampling
 **What are the benefits of the parameter sampler you chose?**
+
+Accuracy is the most popular metric but it is subjected to data skewed so it is more reliable to use it for the regression method. For the purpose of this excercise we assumed that there is not much of data skewed so we will choose the accuracy as our primary metric as we don't have yet the domain knowledge of this data
+
+From Azure website 
+"Random sampling supports discrete and continuous hyperparameters. It supports early termination of low-performance runs. Some users do an initial search with random sampling and then refine the search space to improve results."
+
+As we just start out with the model it is recommended to use random sampling to start so that we can define a better search space 
 
 **What are the benefits of the early stopping policy you chose?**
 
+I choose Bandit policy because according to the guideline from Azure  "Bandit terminates runs where the primary metric is not within the specified slack factor/slack amount compared to the best performing run.", versus other policies such as median stopping policy is when the policy stop if the run does not meet the median/ average of other runs. Because I have a limited lab time it is the best to use bandit policy
+
 ## AutoML
 **In 1-2 sentences, describe the model and hyperparameters generated by AutoML.**
+
+
 
 ## Pipeline comparison
 **Compare the two models and their performance. What are the differences in accuracy? In architecture? If there was a difference, why do you think there was one?**
