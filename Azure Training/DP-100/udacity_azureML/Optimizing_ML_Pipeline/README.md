@@ -27,7 +27,7 @@ Without using this technique the best model is MaxAbsScaler, XGBoostClassifier -
 **Explain the pipeline architecture, including data, hyperparameter tuning, and classification algorithm.**
 
 The sklearn is a deprecated method but for the requirement of this assignment we will stick with it instead of the ScriptRunConfig as recommended 
-![alt text](https://github.com/tramchip/training_documents/blob/master/Azure%20Training/DP-100/udacity_azureML/Optimizing_ML_Pipeline/pictures/sklearn_config.JPG)
+![alt text](https://github.com/tramchip/training_documents/blob/master/Azure%20Training/DP-100/udacity_azureML/Optimizing_ML_Pipeline/pictures/delete_cluster2.JPG)
 
 
 The sklearn pipeline run the code in the file train.py. In the train.py file we modulized the steps into functions that responsible for loading the data, preprocessing the x_df and y_df and split our data into train and testing sets 
