@@ -2,10 +2,10 @@
 https://s3.amazonaws.com/media.whizlabs.com/website/products_whizcard-saa-c02_26_23_1622540177.pdf
 https://docs.google.com/presentation/d/17fQneivZqmTfnUhju71tXJH3z1v4Ns5AIxWsppIOCeo/edit?usp=sharing
 
-2. SESSION PLAN
-https://docs.google.com/presentation/d/1J5rZK_TMmUDpUIqFrxEtS9Q4xyXvkI-C7XYSKZWlBRo/edit?usp=sharing
+2. SESSION PLAN : https://docs.google.com/presentation/d/1J5rZK_TMmUDpUIqFrxEtS9Q4xyXvkI-C7XYSKZWlBRo/edit?usp=sharing
+3. CALENDAR : https://calendar.google.com/calendar/u/0?cid=NW03bW05MjM2bTg3ODRvYzZiNjBlcm1xdGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 
-3. PAST SESSION RECORDING
+4. PAST SESSION RECORDING
 https://www.youtube.com/playlist?list=PLBIstIrTTexVWQEtD4i0z_wi-1bSILJmD
 
 EXTRA MATERIALS:
