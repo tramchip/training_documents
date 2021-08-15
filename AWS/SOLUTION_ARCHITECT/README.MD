@@ -6,3 +6,4 @@
 4. study guide https://github.com/tramchip/training_documents/blob/master/AWS/SOLUTION_ARCHITECT/SAA-C02%20Exam%20STUDY%20GUIDE.pdf
 5. Cloud Adoption Framework https://aws.amazon.com/professional-services/CAF/
 6. Sample exam questions https://github.com/tramchip/training_documents/blob/master/AWS/SOLUTION_ARCHITECT/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf
+7. DataHazo community : https://join.slack.com/t/datahazo/shared_invite/zt-e7tlladd-8XMUNtjcnZn0~R0sZd2b8g
