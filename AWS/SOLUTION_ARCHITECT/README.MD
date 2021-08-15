@@ -1,4 +1,8 @@
-1. SLIDES   
+1. BEGINNER MATERIALS
+https://s3.amazonaws.com/media.whizlabs.com/website/products_whizcard-saa-c02_26_23_1622540177.pdf
+
+
+3. SLIDES   
       https://docs.google.com/presentation/d/17fQneivZqmTfnUhju71tXJH3z1v4Ns5AIxWsppIOCeo/edit?usp=sharing
       https://docs.google.com/presentation/d/1J5rZK_TMmUDpUIqFrxEtS9Q4xyXvkI-C7XYSKZWlBRo/edit?usp=sharing
       
