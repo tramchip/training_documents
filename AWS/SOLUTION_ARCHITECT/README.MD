@@ -8,6 +8,21 @@ https://docs.google.com/presentation/d/17fQneivZqmTfnUhju71tXJH3z1v4Ns5AIxWsppIO
 4. PAST SESSION RECORDING
 https://www.youtube.com/playlist?list=PLBIstIrTTexVWQEtD4i0z_wi-1bSILJmD
 
+5. ZOOM INVITATION
+Jane Pham is inviting you to a scheduled Zoom meeting.
+
+Topic: AWS SOLUTION ARCHITECT STUDY
+
+Time: This is a recurring meeting Meet anytime
+
+Join Zoom Meeting
+https://zoom.us/j/5922430499?pwd=QW9OeWVmM09ndFRnNVdwOElENHdmZz09
+
+Meeting ID: 592 243 0499
+Passcode: 9rRnpa
+
+
+
 EXTRA MATERIALS:
       
 4. official guide https://github.com/tramchip/training_documents/blob/master/AWS/SOLUTION_ARCHITECT/SAA-C02%20Exam%20STUDY%20GUIDE.pdf
