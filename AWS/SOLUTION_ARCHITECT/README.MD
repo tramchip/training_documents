@@ -4,6 +4,8 @@ https://docs.google.com/presentation/d/17fQneivZqmTfnUhju71tXJH3z1v4Ns5AIxWsppIO
 
 https://docs.google.com/presentation/d/1J5rZK_TMmUDpUIqFrxEtS9Q4xyXvkI-C7XYSKZWlBRo/edit#slide=id.ge988ae0aa6_0_41
 
+SAA notes : https://github.com/Ernyoke/certified-aws-solutions-architect-associate
+
 2. SESSION PLAN : https://docs.google.com/presentation/d/1J5rZK_TMmUDpUIqFrxEtS9Q4xyXvkI-C7XYSKZWlBRo/edit?usp=sharing
 3. CALENDAR : https://calendar.google.com/calendar/u/0?cid=NW03bW05MjM2bTg3ODRvYzZiNjBlcm1xdGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 
