@@ -6,14 +6,14 @@ Optimizing costs in the cloud is critical for managing scalable and efficient da
 
 ### Guides
 
-- **[Ramp-Up Guide: Cost Management]([https://aws.amazon.com/awsstatic.com](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Cost_Management.pdf))**
+- **[Ramp-Up Guide: Cost Management] https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Cost_Management.pdf**
 
 ### Dashboards 
 
 In the above guides it highlight the below dashboards for cost monitoring
 
 - **Cloud Intelligence Dashboard**: An interactive, customizable QuickSight dashboard for foundational Cost Management and Optimization reporting. 
-  - [Level 200: Cloud Intelligence Dashboards]([https://wellarchitectedlabs.com](https://www.wellarchitectedlabs.com/cloud-intelligence-dashboards/))
+  - [Level 200: Cloud Intelligence Dashboards] https://www.wellarchitectedlabs.com/cloud-intelligence-dashboards/
 
 - **Cost Intelligence Dashboard (CID)**: A customizable dashboard for the foundation of cost management and optimization.
 
@@ -37,6 +37,16 @@ This whitepaper highlights the Cost Optimization Pillars, including strategies l
   - **Measure, Monitor, and Improve**: Use cost allocation tagging, define metrics, and assign optimization responsibilities.
 
 - **Tagging**: Utilize tagging for environment organization and accountability.
+
+## Cost consideration to lower Total cost of Ownership (TCO)
+In this blog  https://aws.amazon.com/blogs/publicsector/tco-cost-optimization-best-practices-for-managing-usage/
+highlighted some missteps that customers can make that drives up their cloud spent :
+•	Orphaned resources
+•	Misconfigured storage resources
+•	Over-provisioned resources
+•	Incorrect pricing plans
+•	Overlooking newer technologies
+By avoid missteps and leverage cost optimized principles along with using out-of-the-box cost management tools it will greatly help you to reduce your PTO
 
 ## AWS Tools for Reporting and Cost Optimization
 
